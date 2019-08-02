@@ -8,8 +8,16 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "deploy": "gh-pages -d dist"
   },
-  "author": "",
-  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Boston427/amore.git"
+  },
+  "author": "Jeremy Wink",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Boston427/amore/issues"
+  },
+  "homepage": "https://github.com/Boston427/amore#readme",
   "dependencies": {
     "gh-pages": "^2.1.0"
   }
